@@ -1,0 +1,3 @@
+[submodule "fastai_audio"]
+	path = fastai_audio
+	url = https://github.com/sevenfx/fastai_audio.git
